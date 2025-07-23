@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 env:
-  IMAGE_NAME: ghcr.io/${{ github.repository_owner }}/container_security_demo
+  IMAGE_NAME: ghcr.io/${{ github.repository_owner }}/container-security-demo
   VERSION: v1.0.0
 
 jobs:
